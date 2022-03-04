@@ -1,6 +1,6 @@
-# Crisp-cards
+# Crisp-cards :)
 
-A Card UI I built while I was less busy.
+A Card UI I built while I was less busy.✌️
 
 ## Getting Started
 
